@@ -245,4 +245,4 @@ This repository serves as the official landing page for Visual C++. The software
 **Get the most recent version of Visual C++ today!**
 
 ---
-**Last updated:** 2026-10-07 20:21:02 UTC
+**Last updated:** 2026-10-08 00:36:59 UTC
